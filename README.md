@@ -5,3 +5,12 @@ This is a quick project I did for an interview that ended up landing me the job!
 I took a look at NYC Taxi data after Yankees and Mets games to show where people headed to after the games.  I utilized a single class support vector machine to try to normalize the traffic data and remove what was considered ordinary traffic not caused by the games themselves.  I then produced choropleth maps of what the model believed was traffic cause by games to show where people where heading.  
 
 Please see the pdf file included in the repo as the output for the presentation I gave during the interview.  
+
+## Files
+
+* taxi.ipynb - Where most of the work occured.  SVM model is located here as well as the output charts.
+* build_db.ipynb - The code to build the SQLite database where I pulled the relevant information from the datasets
+* schedule.ipynb - The code where I extraced the game data to determine what taxi trips I needed to pull.  
+
+* Data_Dict.pdf - Overview of the NYC Taxi data
+* Where do Yanks and Mets Fan Live.pdf - The slide deck for the presentation I gave.  This was the single deliverable asked for.  
