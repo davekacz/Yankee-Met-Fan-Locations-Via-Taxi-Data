@@ -9,7 +9,7 @@ Please see the pdf file included in the repo as the output for the presentation 
 ## Files
 
 * taxi.ipynb - Where most of the work occurred.  SVM model is located here as well as the output charts.
-* build_db.ipynb - The code to build the SQLite database where I pulled the relevant information from the datasets
+* build_db.ipynb - The code to build the SQLite database where I pulled the relevant information from the taxi trip datasets.
 * schedule.ipynb - The code where I extracted the game data to determine what taxi trips I needed to pull.  
 
 * Data_Dict.pdf - Overview of the NYC Taxi data
